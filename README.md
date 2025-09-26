@@ -1,2 +1,2 @@
-# Slider.github.io
+berthambezi113-crypto.github.io
 Front end
